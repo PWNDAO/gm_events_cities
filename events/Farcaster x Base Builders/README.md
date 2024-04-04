@@ -60,7 +60,7 @@ endDate: 2024-04-07
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '19:00'
-time: '21:00'
+time: '19:00'
 # Time when the event ends. Can be left empty.
 endTime: '22:00'
 
