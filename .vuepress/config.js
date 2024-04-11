@@ -73,7 +73,7 @@ module.exports = {
       },
       {
         text: "ETHPrague",
-        link: "https://www.ethprague.com/",
+        link: "https://ethprague.com/",
       },
     ],
     logo: "logo_gm_events.svg",
