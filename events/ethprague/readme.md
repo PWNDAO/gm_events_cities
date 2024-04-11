@@ -57,7 +57,7 @@ synopsis:
 date: 2024-05-31
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2023-06-02
+endDate: 2024-06-02
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
@@ -71,7 +71,7 @@ tickets: https://ethprague.com/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: €169
+price: €125
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: Hala 13, Holešovická tržnice
