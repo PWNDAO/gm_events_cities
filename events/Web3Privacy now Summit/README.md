@@ -47,7 +47,8 @@ name: Web3Privacy now Summit
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
-synopsis: -  The 2024 edition will become a key event for censorship resistance happening across the whole crypto industry. 
+synopsis: 
+  -  The 2024 edition will become a key event for censorship resistance happening across the whole crypto industry. 
   -  Core protocols & thinkers will present the latest tech & explain how everyone could become cypherpunk.
 
 # The date should be in the format year-month-day (ISO 8601).
