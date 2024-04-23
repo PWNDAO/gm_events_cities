@@ -49,7 +49,6 @@ name: ProtoLayers Conference
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - Join us for ProtoLayers, a technical conference dedicated to exploring the edges of modular blockchain technology. This one-day event, held on May 30, 2024, as a side event to ETHPrague, brings together developers, researchers, and innovators from across the blockchain ecosystem to collaborate, learn, and drive the future for all of us.
-  -
   - Key Topics
   - ​Consensus mechanisms for modular blockchains
   - Execution environments and virtual machines
