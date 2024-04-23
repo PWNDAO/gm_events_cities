@@ -67,7 +67,7 @@ synopsis:
   - Technical leaders and architects from blockchain projects and companies
   - Innovators and entrepreneurs building modular blockchain solution
   -
-  - For more details, speaker & sponsor applications visit https://protolayers.dev
+  - For more details, speaker & sponsor applications visit protolayers.dev
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
 date: 2024-05-31
