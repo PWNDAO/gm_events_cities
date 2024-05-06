@@ -52,7 +52,7 @@ synopsis:
   -  Over the past two years, we've been incredibly fortunate to foster communities across five continents and host top Web3 thought leaders.
   -  Our list of guests have included Vitalik Buterin, Yat Siu, Joe Lubin, Dan Finlay, and many others. ​Immerse yourself in insightful discussions with the biggest brains in the Web3 game, network with other giga 🧠, and expand your knowledge of one of the hottest industry topics.
   -  The evening promises to be filled with builder insights and ample networking opportunities! 🤝
-  -  
+    
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
 date: 2024-06-01
