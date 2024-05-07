@@ -7,6 +7,15 @@ module.exports = {
     "We're bringing the Ethereum community to Prague! This website allows anyone to add and update their side event happening around ETHPrague conference & hackathon.",
   calendarHeading: "June 2024",
   submitEventLink: "https://pwn.typeform.com/to/eLWbM6eS",
+  cta: {
+    title: "Organizing an event?",
+    description: "Show Up is an onchain RSVP and Event management protocol designed to reshape event participation. Increase event participation. Reward attendees.",
+    url: 
+    {
+      text: "Learn more",
+      link: "https://www.showup.events/",
+    },
+  },
   startDate: {
     day: 27,
     month: 5,
