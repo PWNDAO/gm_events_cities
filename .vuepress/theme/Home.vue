@@ -4,6 +4,7 @@
     <Hero />
     <Venues />
     <Events />
+    <Cta />
   </div>
 </template>
 
@@ -15,9 +16,10 @@ import Events from "../components/Home/Events.vue";
 import Footer from "../components/Footer.vue";
 import Venues from "../components/Home/Venues.vue";
 import Banner from "../components/Home/Banner.vue";
+import Cta from "../components/Home/Cta.vue";
 
 export default {
-  components: { NavLink, Button, Hero, Footer, Venues, Events, Banner },
+  components: { NavLink, Button, Hero, Footer, Venues, Events, Banner, Cta },
 };
 </script>
 
