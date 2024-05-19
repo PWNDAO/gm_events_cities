@@ -65,7 +65,7 @@ time: '13:00'
 endTime: '15:00'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets: www.sminem.org
+tickets: https://www.sminem.org
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
