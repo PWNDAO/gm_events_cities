@@ -51,7 +51,6 @@ synopsis:
   - Discover the best parts of Prague with locals who grew up in the city and know where the fun places are! We'll take you to unique neighborhoods filled with cool street art and local culture. It's a side of Prague that most visitors don't get to see. 
   - We'll show you the best spots for having a good time, eating delicious food, and shopping for cool stuff. Additionally, we will discuss recent events influencing Czech culture and society. 
   - We can't wait to meet you and show you around! ;)
-  - https://alternative-prague.com/en/tour/alternative-prague-tour--4
     
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
