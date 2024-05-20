@@ -49,8 +49,10 @@ name: Starknet Day
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - Join us for an afternoon of insights, knowledge sharing and networking centered around Starknet. This event brings together developers, community members and enthusiasts to explore the bright future of scaling Ethereum.
-  - Starknet is the leading layer 2 scaling solution offering unparalleled computation power, cheap transactions while still maintaining the security and integrity of Ethereum.
-  -  Whether you're a developer looking to build on Starknet, an entrepreneur seeking new opportunities, or simply curious about the future of blockchain technology, this event is not to be missed.
+  - Agenda
+  - ​15:45 - 16:15 Coffee & snacks
+  - ​16:15 - 18:15 Talks
+  - ​18:15 - 22:00 Networking
     
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -62,12 +64,12 @@ endDate: 2024-05-30
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '09:00'
-time: '16:00'
+time: '15:45'
 # Time when the event ends. Can be left empty.
 endTime: '22:00'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets:
+tickets: https://lu.ma/jmm67jbn
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
