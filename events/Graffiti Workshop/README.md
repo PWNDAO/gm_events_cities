@@ -48,8 +48,7 @@ name: Graffiti Workshop
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis: 
-  - The time has come to reconnect with your team and boost their creative thinking, for example with a graffiti workshop!  
-  - Spray away under the guidance of renowned local graffiti artist, Sany, to create your own masterpiece.
+  - The time has come to reconnect with your creative thinking. Spray away under the guidance of renowned local graffiti artist, Sany, to create your own masterpiece.
   - Following a quick walkthrough of one of Prague’s legally allocated “free-to-spray” areas and learning about graffiti subculture, you will have the chance to leave your own signature on the wall.
   - Enjoy seamless planning of your group experience, robust World of Hyatt rewards and unique incentive events at Andaz Prague, a concept by Hyatt. Welcome to the first luxury lifestyle hotel in Prague.
   - https://www.youtube.com/watch?v=RVKQ2RGhnQg
