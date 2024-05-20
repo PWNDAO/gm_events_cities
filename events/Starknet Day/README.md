@@ -53,7 +53,14 @@ synopsis:
   - ​15:45 - 16:15 Coffee & snacks
   - ​16:15 - 18:15 Talks
   - ​18:15 - 22:00 Networking
-    
+  - 
+  - Networking
+  - Stay around after the talks for an engaging networking session. Complimentary food and drinks are included.
+  - 
+  - About Starknet
+  - Starknet is the leading layer 2 scaling solution offering unparalleled computation power, cheap transactions while still maintaining the security and integrity of Ethereum.
+  - Whether you're a developer looking to build on Starknet, an entrepreneur seeking new opportunities, or simply curious about the future of blockchain technology, this event is not to be missed.
+
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
 date: 2024-05-30
