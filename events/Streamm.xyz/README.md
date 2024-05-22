@@ -50,9 +50,9 @@ name: Streamm.xyz, Farcaster video client launch party
 synopsis: 
   - Join us during Prague Blockchain Week for an exclusive introduction to Streamm.xyz, a groundbreaking new video client designed for the Web3 community.
   - Streamm.xyz offers
-  - Livestreams and Videocasts: Engage with real-time and recorded content tailored for the blockchain ecosystem.
-  - Creator Keys for Gated Content: Empower creators with tools to control access and monetize their content.
-  - Full @Farcaster Integration: Seamless interaction with the Farcaster protocol, including responses, likes, and follows.
+  - Livestreams and Videocast; Engage with real-time and recorded content tailored for the blockchain ecosystem.
+  - Creator Keys for Gated Content; Empower creators with tools to control access and monetize their content.
+  - Full @Farcaster Integration; Seamless interaction with the Farcaster protocol, including responses, likes, and follows.
   - This event is perfect for content creators, developers, and blockchain enthusiasts looking to explore innovative ways to connect and engage with their audience.
   - Don't miss the opportunity to be part of the future of video content in Web3!
   - Just add your email at https://streamm.xyz beta signup form and we will email you the invite 48 hours before the event.
