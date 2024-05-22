@@ -28,19 +28,19 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Streamm.xyz : farcaster video client launch party 🎉
+title: Streamm.xyz : farcaster video client launch party
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Streamm.xyz : farcaster video client launch party 🎉
+description: Streamm.xyz : farcaster video client launch party
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Streamm.xyz : farcaster video client launch party 🎉
+name: Streamm.xyz : farcaster video client launch party
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
