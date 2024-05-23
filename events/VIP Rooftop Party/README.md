@@ -28,7 +28,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: VIP Rooftop Party
+title: ​VIP Rooftop Party Ethereum Prague 2024
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -40,7 +40,7 @@ description: Meet speakers, mentors, judges and very important builders of the E
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: VIP Rooftop Party
+name: ​VIP Rooftop Party Ethereum Prague 2024
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -48,8 +48,19 @@ name: VIP Rooftop Party
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis: 
-  -  Meet speakers, mentors, judges and very important builders of the Ethereum community. 
-  -  Unwind the first day of the Ethereum Prague conference with local Czech beer and enjoy our DJ's beats.
+  -  ​Meet speakers, mentors, judges and very important builders of the Ethereum community. Unwind the first day of the Ethereum Prague conference with local Czech beer tasting provided by the CEO of a local brewery, food bar, and enjoy our vinyl DJ's beats.
+  -  Location
+  -  Hosted by locals at Ackee’s spacious rooftop close to the main ETH Prague venue: 4, Rohanské nábř. 717 in the heart of the Prague tech district.
+  -  ​About Ackee
+  -  Blockchain security by industry-leading auditors​
+Ackee is trusted by top-tier organizations in web3. Our mission is to contribute to a stronger blockchain ecosystem by providing security services, tooling and education.
+  - About Axelar
+  - Axelar is the Web3 interoperability platform. An open stack to connect all blockchains. A single click to use and build everywhere.
+  - About 1inch
+  - The 1inch Network unites decentralized protocols whose synergy enables the most lucrative, fastest and protected operations in the DeFi space.
+  - Disclaimer: Please note that photographs and footage will be taken throughout the event and will be used for marketing and publicity, on our website, blog and in social media or in any third party publication.
+
+
     
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
