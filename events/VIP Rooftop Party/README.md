@@ -52,7 +52,7 @@ synopsis:
   -  Location
   -  Hosted by locals at Ackee’s spacious rooftop close to the main ETH Prague venue in the heart of the Prague tech district.
   -  ​About Ackee
-  -  Blockchain security by industry-leading auditors​
+  -  Blockchain security by industry leading auditors​
 Ackee is trusted by top-tier organizations in web3. Our mission is to contribute to a stronger blockchain ecosystem by providing security services, tooling and education.
   - About Axelar
   - Axelar is the Web3 interoperability platform. An open stack to connect all blockchains. A single click to use and build everywhere.
