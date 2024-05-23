@@ -1,3 +1,4 @@
+
 ---
 ####################
 ### INSTRUCTIONS ###
@@ -50,7 +51,7 @@ name: ​VIP Rooftop Party Ethereum Prague 2024
 synopsis: 
   -  ​Meet speakers, mentors, judges and very important builders of the Ethereum community. Unwind the first day of the Ethereum Prague conference with local Czech beer tasting provided by the CEO of a local brewery, food bar, and enjoy our vinyl DJ's beats.
   -  Location
-  -  Hosted by locals at Ackee’s spacious rooftop close to the main ETH Prague venue: 4, Rohanské nábř. 717 in the heart of the Prague tech district.
+  -  Hosted by locals at Ackee’s spacious rooftop close to the main ETH Prague venue in the heart of the Prague tech district.
   -  ​About Ackee
   -  Blockchain security by industry-leading auditors​
 Ackee is trusted by top-tier organizations in web3. Our mission is to contribute to a stronger blockchain ecosystem by providing security services, tooling and education.
@@ -113,7 +114,3 @@ speakers:
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
-
-<!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->
-
-<Event-Content/>
