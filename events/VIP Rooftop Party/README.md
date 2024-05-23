@@ -58,7 +58,8 @@ Ackee is trusted by top-tier organizations in web3. Our mission is to contribute
   - Axelar is the Web3 interoperability platform. An open stack to connect all blockchains. A single click to use and build everywhere.
   - About 1inch
   - The 1inch Network unites decentralized protocols whose synergy enables the most lucrative, fastest and protected operations in the DeFi space.
-  - Disclaimer: Please note that photographs and footage will be taken throughout the event and will be used for marketing and publicity, on our website, blog and in social media or in any third party publication.
+  - Disclaimer
+  - Please note that photographs and footage will be taken throughout the event and will be used for marketing and publicity, on our website, blog and in social media or in any third party publication.
 
 
     
