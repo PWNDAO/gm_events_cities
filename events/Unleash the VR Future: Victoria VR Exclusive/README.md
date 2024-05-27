@@ -33,14 +33,14 @@ title: Unleash the VR Future by Victoria VR Exclusive
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Unleash the VR Future: Victoria VR Exclusive
+description: Unleash the VR Future by Victoria VR Exclusive
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Unleash the VR Future: Victoria VR Exclusive
+name: Unleash the VR Future by Victoria VR Exclusive
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
