@@ -60,17 +60,17 @@ synopsis:
     
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2024-05-29
+date: 2024-06-01
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2024-06-02
+endDate: 2024-06-01
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '09:00'
-time: '14:00'
+time: '13:30'
 # Time when the event ends. Can be left empty.
-endTime: '15:00'
+endTime: '16:00'
 
 # The URL where to acquire the tickets. Can be left empty.
 tickets: https://streamm.xyz/
