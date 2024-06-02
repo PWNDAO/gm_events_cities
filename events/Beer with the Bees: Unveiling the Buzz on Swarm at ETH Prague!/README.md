@@ -57,7 +57,7 @@ synopsis:
   -  Dive into exciting new features like streaming and Access Control Tokens (ACTs), built by the SolarPunk Bees themselves! ​
   -  Networking Hive
   -  Mingle with fellow developers, builders, and anyone passionate about the future of Ethereum.
-  -  ​Pre-Closing Party Buzz
+  -  ​Pre Closing Party Buzz
   -  This event is the perfect warm up before heading to the ETH Prague closing party together!
   -  Spots are limited, so RSVP now!
     
