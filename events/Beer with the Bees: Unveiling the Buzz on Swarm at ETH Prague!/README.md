@@ -48,17 +48,17 @@ name: Beer with the Bees Unveiling the Buzz on Swarm at ETH Prague!
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis: 
-  -  Beer with the Bees: Unveiling the Buzz on Swarm at ETH Prague! ​
-  -  Calling all Solarpunks and Ethereum enthusiasts! ​Join SolarPunk.Buzz for an after-hours social event at ETH Prague, where we'll be buzzing about the latest developments in ETH Swarm. 🐝
+  -  Beer with the Bees Unveiling the Buzz on Swarm at ETH Prague! ​
+  -  Calling all Solarpunks and Ethereum enthusiasts! ​Join SolarPunk.Buzz for an after hours social event at ETH Prague, where we'll be buzzing about the latest developments in ETH Swarm. 🐝
   -  ​What to expect
   -  ​Free flowing beers
   -  We'll kick things off by finding everyone a refreshing beverage. ​
-  -  15-minute Swarm Showcase
+  -  15 minute Swarm Showcase
   -  Dive into exciting new features like streaming and Access Control Tokens (ACTs), built by the SolarPunk Bees themselves! ​
   -  Networking Hive
   -  Mingle with fellow developers, builders, and anyone passionate about the future of Ethereum.
   -  ​Pre-Closing Party Buzz
-  -  This event is the perfect warm-up before heading to the ETH Prague closing party together!
+  -  This event is the perfect warm up before heading to the ETH Prague closing party together!
   -  Spots are limited, so RSVP now!
     
 # The date should be in the format year-month-day (ISO 8601).
