@@ -84,7 +84,7 @@ venue: Food court at ETHPrague
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Dělnická 475/43, 170 00 Prague 7, Czechia
+address: Bubenské nábř. 306, 170 00 Praha 7-Holešovice
 
 # The category of the event. Valid options:
 # - conference
