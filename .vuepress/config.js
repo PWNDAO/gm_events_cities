@@ -1,11 +1,11 @@
 module.exports = {
   base: "/",
   title: "Zürich GM Events",
-  heading: "GM Zürich 2024",
-  dateSubheading: "1 - 14 April 2024",
+  heading: "GM Zürich 2025",
+  dateSubheading: "20 January - 7 February",
   subHeading:
     "We're bringing the Ethereum community to the most crypto friendly country and the cradle of blockchain research! This website allows anyone to add and update their side event.",
-  calendarHeading: "April 2024",
+  calendarHeading: "January/February 2025",
   submitEventLink: "https://pwn.typeform.com/ZurichSideEvent",
   startDate: {
     day: 1,
@@ -38,7 +38,7 @@ module.exports = {
     "Sunday",
   ],
   layout: 0, // 0 - banner layout, 1 - venue layout
-  bannerPath: "Zu24_social_uzh3.jpg", // only if banner layout
+  bannerPath: "ez-header-1500x500.png", // only if banner layout
   venues: [
     {
       name: "Duct Tape",
