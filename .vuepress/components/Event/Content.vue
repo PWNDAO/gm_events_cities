@@ -178,7 +178,7 @@ h2
   padding 0.3em 0.6em
   border-radius 3px
   border 1px solid white
-  background: #0fffe5;
+  background: white;
   text-decoration: none !important;
 
   &:hover
