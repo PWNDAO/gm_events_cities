@@ -11,7 +11,7 @@
         <div class="event-preview_badge-and-link-to-website">
           <div>
             <Badge slot="after" :text="event.frontmatter.category" />
-    
+
             <Badge v-if="event.frontmatter.featured" slot="after" :text="'TOP'" />
           </div>
           <div class="event-preview_button-attend-event-container" v-if="event.frontmatter.tickets != null">
@@ -20,7 +20,7 @@
         </div>
       </div>
 
-      
+
       <div class="event-preview_toggle-description-visibility--mobile">
         <img v-if="isMaximazed === false" height="35" width="35" src="./../public/plus.svg" alt="open" @click="isMaximazed = true"/>
         <img v-else  src="./../public/minus.svg" height="35"  width="35" alt="close" @click="isMaximazed = false"/>
@@ -34,19 +34,19 @@
         <h2 class="event-preview_name">
           <a class="event-preview_name-link" :href="$withBase(event.path)">{{ event.frontmatter.name }}</a>
         </h2>
-        
+
         <!-- Event's description -->
         <p class="event-preview_description" v-if="isMaximazed" >{{ event.frontmatter.description }}</p>
       </div>
-      
+
       <div class="event-preview_toggle-description-visibility--desktop">
-        
+
         <img v-if="isMaximazed === false" height="35" width="35" src="./../public/plus.svg" alt="open" @click="isMaximazed = true"/>
         <img v-else  src="./../public/minus.svg" height="35"  width="35" alt="close" @click="isMaximazed = false"/>
       </div>
     </div>
 
-    
+
   </div>
 </template>
 
@@ -93,7 +93,7 @@ export default {
   &_toggle-description-visibility--mobile
     cursor pointer
     margin 0.7rem 0 0 1rem
-  
+
   &_toggle-description-visibility--desktop
     display none
 
@@ -106,7 +106,7 @@ export default {
     margin: 2.5rem 0 1rem
     padding 0
     border: none
-  
+
   &_name-link
     border: none
 
@@ -151,17 +151,17 @@ export default {
 
 <style lang="stylus">
 .event-preview_button-attend-event
-  height 18px 
-  font-size 0.9rem     
+  height 18px
+  font-size 0.9rem
   color black
   line-height 18px
-  padding 0.3em 0.6em 
+  padding 0.3em 0.6em
   border-radius 3px
-  border 1px solid #01ffe0
+  border 1px solid white
   background: #0fffe5;
   text-decoration: none !important;
 
-  &:hover 
+  &:hover
     text-decoration: none;
 
 </style>
