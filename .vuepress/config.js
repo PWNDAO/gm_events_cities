@@ -6,7 +6,7 @@ module.exports = {
   subHeading:
     "We're bringing the Ethereum community to the most crypto friendly country and the cradle of blockchain research! This website allows anyone to add and update their side event.",
   calendarHeading: "January/February 2025",
-  submitEventLink: "https://pwn.typeform.com/ZurichSideEvent",
+  submitEventLink: "https://pwn.typeform.com/to/zETbkckp",
   startDate: {
     day: 1,
     month: 4,
@@ -22,13 +22,6 @@ module.exports = {
   endHour: 24,
   duarationInDays: 14,
   dayNames: [
-    "Monday",
-    "Tuesday",
-    "Wednesday",
-    "Thursday",
-    "Friday",
-    "Saturday",
-    "Sunday",
     "Monday",
     "Tuesday",
     "Wednesday",

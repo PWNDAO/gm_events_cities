@@ -33,12 +33,12 @@ export default {
   flex-direction column
   align-items center
   // height 100vh
-  background linear-gradient(0deg, rgba(4, 166, 148, 0.9) 23.22%, rgba(4, 145, 130, 0) 87.28%)
+  // background linear-gradient(0deg, rgba(4, 166, 148, 0.9) 23.22%, rgba(4, 145, 130, 0) 87.28%)
 
-  &_content 
+  &_content
     max-width $pageContentMaxWidth
     width: 100%;
-  
+
   &_title-row
     display flex
     justify-content space-between
@@ -57,7 +57,7 @@ export default {
     width 55rem
     margin-bottom 2rem
 
-.btn-all 
+.btn-all
   background rgba($primaryAccentColor, 0.35)
   padding 5px 10px
   cursor pointer
@@ -65,9 +65,9 @@ export default {
   border-radius 2px
   border 1px solid rgba($accentColor, 0.35);
   color $accentColor
-  font-family 'Oxygen Mono', monospace
+  font-family 'Helvetica', sans-serif;
 
-  &:hover 
+  &:hover
     background: rgba($primaryAccentColor, 0.6)
 
 @media(min-width: $MQMobile)
