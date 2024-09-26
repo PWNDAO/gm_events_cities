@@ -31,7 +31,7 @@ module.exports = {
     "Sunday",
   ],
   layout: 0, // 0 - banner layout, 1 - venue layout
-  bannerPath: "ez-header-1500x500.png", // only if banner layout
+  bannerPath: "ez-header-4500x1500.png", // only if banner layout
   venues: [
     {
       name: "Duct Tape",

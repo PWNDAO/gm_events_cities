@@ -14,11 +14,17 @@
         <!-- <AlgoliaSearchBox v-if="isAlgoliaSearch" :options="algolia"/> -->
         <!-- <SearchBox v-else-if="$site.themeConfig.search !== false"/> -->
       </div>
-      <Button
-        class="menu_button-submit-event"
-        buttonText="Submit Event"
-        :to="this.config.submitEventLink"
-      />
+      <div class="menu_submit-event-and-duct-tape-logo">
+        <Button
+          class="menu_button-submit-event"
+          buttonText="Submit Event"
+          :to="this.config.submitEventLink"
+        />
+        <a class="menu_duct-tape-logo" href="https://ducttape.events/" target="_blank">
+          <img src='./../public/duct-tape-logo.svg' alt="duct tape logo" height="60" />
+        </a>
+
+      </div>
       <SidebarButton @toggle-sidebar="$emit('toggle-sidebar')" />
     </div>
   </header>
@@ -117,4 +123,13 @@ export default {
 
     &_button-submit-event
       display block
+
+.menu_submit-event-and-duct-tape-logo
+  display flex
+  align-items center
+  gap 1.5rem
+
+.menu_duct-tape-logo
+  display flex !important
+
 </style>
