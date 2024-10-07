@@ -25,12 +25,9 @@
       <div class="footer_right_hash">
         #GMevents
       </div>
-      <div class="footer_right_powered-by">
-        Powered by
-      </div>
-      <a href="https://ducttape.events/" target="_blank">
-        <img src='./../public/duct-tape-logo.svg' alt="duct tape logo" height="60" width="110" />
-      </a>
+      <!--      <div class="footer_right_powered-by">-->
+      <!--        Powered by-->
+      <!--      </div>-->
 
     </div>
   </div>
