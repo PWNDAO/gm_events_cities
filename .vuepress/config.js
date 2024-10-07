@@ -34,7 +34,7 @@ module.exports = {
   bannerPath: "Spaghetteth_Naples_1.png", // only if banner layout
   venues: [
     {
-      name: "Paralelni Polis",
+      name: "Duct Tape",
       desc: "yay",
       path: "logo_gm_events.svg",
     },

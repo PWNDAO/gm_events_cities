@@ -62,7 +62,7 @@ export default {
 
   &_headline-paragraph
     font-size clamp(1rem, calc(-.875rem + 1.8vw),8.5rem)
-    line-height 28px
+    line-height 1.5
     margin-bottom 1rem
     max-width 55rem
     text-align center
