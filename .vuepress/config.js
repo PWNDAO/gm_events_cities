@@ -22,11 +22,6 @@ module.exports = {
   endHour: 24,
   duarationInDays: 13,
   dayNames: [
-    "Wednesday",
-    "Thursday",
-    "Friday",
-    "Saturday",
-    "Sunday",
     "Monday",
     "Tuesday",
     "Wednesday",
@@ -34,7 +29,6 @@ module.exports = {
     "Friday",
     "Saturday",
     "Sunday",
-    "Monday",
   ],
   layout: 1, // 0 - banner layout, 1 - venue layout
   bannerPath: "TwitHeader_1500x5002.jpg", // only if banner layout
@@ -49,7 +43,7 @@ module.exports = {
       desc: "The Hacker House of EthSamba that will be open 24 hours from the start of the Hackathon. In it, all you need is to build your best project and take quick breaks by jumping in the pool or admiring the view!",
       path: "ethsambahack.jpeg",
     },
-    
+
   ], // only if venue layout
   head: [
     ["link", { rel: "manifest", href: "/manifest.json" }],
