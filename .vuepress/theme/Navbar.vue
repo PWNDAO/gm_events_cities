@@ -2,7 +2,7 @@
   <header class="navbar">
     <!--      <LaneAbove />-->
     <div class="menu">
-      <router-link :to="$localePath" class="home-link">
+      <router-link :to="$localePath" class="home-link logo-gm-events">
         <img class="logo" :src="$withBase(logo)" alt="Logo" />
       </router-link>
       <div class="links">
@@ -131,5 +131,8 @@ export default {
 
 .menu_duct-tape-logo
   display flex !important
+
+.logo-gm-events
+  width 223px
 
 </style>
