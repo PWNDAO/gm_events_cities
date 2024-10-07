@@ -12,7 +12,7 @@
     </div>
 
     <h1 class="content__title">{{ data.name }}</h1>
-  
+
     <div class="content__date-and-add-to-calendar">
       <CalendarHelper :event="$page" />
       <DateTime :isOneLine="true"/>
@@ -153,7 +153,7 @@ h2
   align-items: center;
   flex-wrap: wrap;
   gap 1rem
-  
+
   p
     margin 0
 
@@ -171,17 +171,17 @@ h2
   gap 0.5rem
 
 .content__button-attend-event
-  height 18px 
-  font-size 0.9rem     
+  height 18px
+  font-size 0.9rem
   color black
   line-height 18px
-  padding 0.3em 0.6em 
+  padding 0.3em 0.6em
   border-radius 3px
-  border 1px solid #01ffe0
-  background: #0fffe5;
+  border 1px solid white
+  background: white;
   text-decoration: none !important;
-  
-  &:hover 
+
+  &:hover
     text-decoration: none;
 
 .content__category-and-link-to-website
