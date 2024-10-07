@@ -3,7 +3,7 @@
     <div class="lane-above__box">
       <img :src="$withBase(greenDot)" alt="green dot" />
       &nbsp;Powered by &nbsp;
-      <img :src="$withBase(pwnLogo)" alt="pwn logo" />
+      <img :src="$withBase(ductTapeLogo)" alt="duct tape logo" />
     </div>
 
     <div class="lane-above__box">
@@ -14,7 +14,7 @@
     <div class="lane-above__box">
       <img :src="$withBase(greenDot)" alt="green dot" />
       &nbsp;Powered by &nbsp;
-      <img :src="$withBase(pwnLogo)" alt="pwn logo" />
+      <img :src="$withBase(ductTapeLogo)" alt="duct tape logo" />
     </div>
 
     <div class="lane-above__box">
@@ -25,7 +25,7 @@
     <div class="lane-above__box">
       <img :src="$withBase(greenDot)" alt="green dot" />
       &nbsp;Powered by &nbsp;
-      <img :src="$withBase(pwnLogo)" alt="pwn logo" />
+      <img :src="$withBase(ductTapeLogo)" alt="duct tape logo" />
     </div>
 
     <div class="lane-above__box">
@@ -36,14 +36,14 @@
     <div class="lane-above__box">
       <img :src="$withBase(greenDot)" alt="green dot" />
       &nbsp;Powered by &nbsp;
-      <img :src="$withBase(pwnLogo)" alt="pwn logo" />
+      <img :src="$withBase(ductTapeLogo)" alt="duct tape logo" />
     </div>
 
     <div class="lane-above__box">
       <img :src="$withBase(greenDot)" alt="green dot" />
       &nbsp;3000 attendees
     </div>
-    
+
   </div>
 </template>
 
@@ -55,8 +55,8 @@ export default {
     greenDot () {
       return require('./../public/green_dot.svg')
     },
-    pwnLogo () {
-      return require(`./../public/pwn_logo.svg`)
+    ductTapeLogo () {
+      return require(`./../public/duct-tape-logo.svg`)
     }
   },
 };
@@ -79,7 +79,7 @@ export default {
   align-items: center;
   justify-content: center;
   font-size: 14px;
-  font-family: 'Oxygen Mono', monospace;
+  font-family: 'Helvetica', sans-serif;
   margin: 0 1.5rem;
 }
 
