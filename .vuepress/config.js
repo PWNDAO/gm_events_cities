@@ -10,7 +10,7 @@ module.exports = {
   cta: {
     title: "Organizing an event?",
     description: "Show Up is an onchain RSVP and Event management protocol designed to reshape event participation. Increase event participation. Reward attendees.",
-    url: 
+    url:
     {
       text: "Learn more",
       link: "https://www.showup.events/",
@@ -38,19 +38,12 @@ module.exports = {
     "Friday",
     "Saturday",
     "Sunday",
-    "Monday",
-    "Tuesday",
-    "Wednesday",
-    "Thursday",
-    "Friday",
-    "Saturday",
-    "Sunday",
   ],
   layout: 0, // 0 - banner layout, 1 - venue layout
   bannerPath: "ETH_Prg3_TwitHeader2.png", // only if banner layout
   venues: [
     {
-      name: "Paralelni Polis",
+      name: "Duct Tape",
       desc: "yay",
       path: "logo_gm_events.svg",
     },
