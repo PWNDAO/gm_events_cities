@@ -29,13 +29,12 @@ module.exports = {
     "Friday",
     "Saturday",
     "Sunday",
-    "Monday",
   ],
   layout: 0, // 0 - banner layout, 1 - venue layout
   bannerPath: "ethdam.png", // only if banner layout
   venues: [
     {
-      name: "Paralelni Polis",
+      name: "Duct Tape",
       desc: "yay",
       path: "logo_gm_events.svg",
     },
