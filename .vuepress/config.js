@@ -34,7 +34,7 @@ module.exports = {
   bannerPath: "devconnect.jpg", // only if banner layout
   venues: [
     {
-      name: "Paralelni Polis",
+      name: "Duct Tape",
       desc: "yay",
       path: "logo_gm_events.svg",
     },

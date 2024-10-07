@@ -12,4 +12,4 @@ https://istanbul.gm.events.
 For submitting new events please do either of these:
 1) create a PR 
 2) create an issue 
-3) submit a form: https://pwn.typeform.com/devconnect 
+3) submit a form: https://gmevents.typeform.com/devconnect
