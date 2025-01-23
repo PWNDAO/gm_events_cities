@@ -49,7 +49,7 @@ name: Cryptodrinks
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis: 
-- "As we gear up for EthereumZüri.ch, we’re kicking things off with a special CryptoDrinks Zürich (informal drinks) on January 28th, together with swissDAO."
+- "As we gear up for EthereumZüri.ch, we’re kicking things off with a special CryptoDrinks Zürich (informal drinks) on January 28th, together with swissDAO. "
 
 - "​Come meet fellow buidlers, creators, and crypto enthusiasts at the Crypto Drinks meetup in Zürich at Amboss Rampe."
  
