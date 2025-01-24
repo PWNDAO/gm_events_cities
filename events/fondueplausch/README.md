@@ -48,9 +48,9 @@ name: Frankencow's Fondueplausch
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
-synopsis: "​Frankencoin and GSR are excited to invite you to a night of Swiss cheesiness at Frankencow’s Fondueplausch!
-
-​GSR, as the liquidity provider, will be serving a curated selection of fine wines, while Frankencoin’s Frankencow has brought all the cheese for an indulgent fondue experience."
+synopsis:
+- ​Frankencoin and GSR are excited to invite you to a night of Swiss cheesiness at Frankencow’s Fondueplausch!
+- ​GSR, as the liquidity provider, will be serving a curated selection of fine wines, while Frankencoin’s Frankencow has brought all the cheese for an indulgent fondue experience.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
