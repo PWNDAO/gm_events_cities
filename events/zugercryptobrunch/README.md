@@ -88,7 +88,7 @@ venue: Aigu Bar & Lounge (Parkhotel)
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: TBIndustriestrasse 14, 6300 Zug, Switzerland
+address: TB Industriestrasse 14, 6300 Zug, Switzerland
 
 # The category of the event. Valid options:
 # - conference
