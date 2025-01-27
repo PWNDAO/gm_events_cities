@@ -55,14 +55,10 @@ name: Zuger Crypto Brunch (Optimal DAO Community)
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-- "Dear friends,
+-Dear friends,
 ☕️ 🥐 We invite you and your family to enjoy a warm and cosy moment at the Parkhotel in Zug. There will be the opportunity to drink a delicious cappuccino with croissants and more together, to have many inspirational conversations, as well as gaining insights behind the scenes of the Web3 / Crypto Valley 🏞️
-
-- 👋🏻 We are excited to meet new web3 enthusiasts, big or small, and to share this lovely morning with you and your loved ones! 😊
-
-See you soon!
-Best, Costin
-Founder @ Optimal DAO"
+-👋🏻 We are excited to meet new web3 enthusiasts, big or small, and to share this lovely morning with you and your loved ones! 😊
+-See you soon! Best, Costin Founder @ Optimal DAO
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
