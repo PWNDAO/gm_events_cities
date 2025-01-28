@@ -49,10 +49,8 @@ name: Shortcut To Building Onchain
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-- Hear from real builders of the industry, and never heard before stories of these companies.
-
-- Presentations
-- Enso: Your shortcut to building onchain.
+- Hear from real builders of the industry, and never heard before stories of these companies. 
+- PresentationsEnso: Your shortcut to building onchain.
 - BrianKnowsAI: Leading innovator within DeFAI sector.
 - UsePicnic: Crypto mobile investing app with DeFi embedded.
 - IPOR: The credit hub of DeFi.
