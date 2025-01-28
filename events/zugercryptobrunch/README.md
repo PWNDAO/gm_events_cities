@@ -33,11 +33,11 @@ title: Zuger Crypto Brunch (Optimal DAO Community)
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: ""Dear friends,
+description: "Dear friends,
 
-☕️ 🥐 We invite you and your family to enjoy a warm and cosy moment at the Parkhotel in Zug. There will be the opportunity to drink a delicious cappuccino with croissants and more together, to have many inspirational conversations, as well as gaining insights behind the scenes of the Web3 / Crypto Valley 🏞️
+We invite you and your family to enjoy a warm and cosy moment at the Parkhotel in Zug. There will be the opportunity to drink a delicious cappuccino with croissants and more together, to have many inspirational conversations, as well as gaining insights behind the scenes of the Web3 / Crypto Valley
 
-👋🏻 We are excited to meet new web3 enthusiasts, big or small, and to share this lovely morning with you and your loved ones! 😊
+We are excited to meet new web3 enthusiasts, big or small, and to share this lovely morning with you and your loved ones!
 
 See you soon!
 Best, Costin
@@ -55,8 +55,8 @@ name: Zuger Crypto Brunch (Optimal DAO Community)
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-- Dear friends, 🥐 We invite you and your family to enjoy a warm and cosy moment at the Parkhotel in Zug. There will be the opportunity to drink a delicious cappuccino with croissants and more together, to have many inspirational conversations, as well as gaining insights behind the scenes of the Web3 / Crypto Valley 🏞️
-- 👋🏻 We are excited to meet new web3 enthusiasts, big or small, and to share this lovely morning with you and your loved ones! 😊
+- Dear friends, We invite you and your family to enjoy a warm and cosy moment at the Parkhotel in Zug. There will be the opportunity to drink a delicious cappuccino with croissants and more together, to have many inspirational conversations, as well as gaining insights behind the scenes of the Web3 / Crypto Valley
+- We are excited to meet new web3 enthusiasts, big or small, and to share this lovely morning with you and your loved ones!
 - See you soon! Best, Costin Founder @ Optimal DAO
 
 # The date should be in the format year-month-day (ISO 8601).
