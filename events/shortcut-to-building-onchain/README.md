@@ -52,10 +52,10 @@ synopsis:
 - Hear from real builders of the industry, and never heard before stories of these companies.
 
 - Presentations
-- 1) Enso: Your shortcut to building onchain.
-- 2. BrianKnowsAI: Leading innovator within DeFAI sector.
-- 3. UsePicnic: Crypto mobile investing app with DeFi embedded.
-- 4. IPOR: The credit hub of DeFi.
+- Enso: Your shortcut to building onchain.
+- BrianKnowsAI: Leading innovator within DeFAI sector.
+- UsePicnic: Crypto mobile investing app with DeFi embedded.
+- IPOR: The credit hub of DeFi.
 
 - Panel
 - Topic: VC perspective of builder qualities they look for, and portfolio success stories of real builders.
