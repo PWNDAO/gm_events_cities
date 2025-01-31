@@ -50,14 +50,17 @@ name: Shortcut To Building Onchain
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
 - Hear from real builders of the industry, and never heard before stories of these companies. 
-- PresentationsEnso: Your shortcut to building onchain.
-- BrianKnowsAI: Leading innovator within DeFAI sector.
-- UsePicnic: Crypto mobile investing app with DeFi embedded.
-- IPOR: The credit hub of DeFi.
+
+- Presentations ->
+
+- Enso - Your shortcut to building onchain.
+- BrianKnowsAI - Leading innovator within DeFAI sector.
+- UsePicnic -  Crypto mobile investing app with DeFi embedded.
+- IPOR - The credit hub of DeFi.
 
 - Panel
-- Topic: VC perspective of builder qualities they look for, and portfolio success stories of real builders.
-- Participants: Greenfield, IDEO, L1D.
+- Topic - VC perspective of builder qualities they look for, and portfolio success stories of real builders.
+- Participants - Greenfield, IDEO, L1D.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
