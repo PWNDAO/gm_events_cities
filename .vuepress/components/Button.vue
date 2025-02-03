@@ -41,24 +41,26 @@ export default {
 };
 </script>
 
-<style scoped>
+<style scoped lang="stylus">
+@import './../theme/styles/config.styl';
+
 .custom-link {
   display: flex;
 }
 
 .primary-btn {
-  background: rgba(primaryAccentColor, 0.35);
+  background: $primaryAccentColor;
   padding: 15px 24px;
   cursor: pointer;
   line-height: 18px;
   border-radius: 2px;
-  color: accentColor;
-  font-family: "Oxygen Mono", monospace;
+  color: $textColorSecondary;
+  font-family: 'Helvetica', sans-serif;
   text-decoration: none !important;
   white-space: nowrap;
 }
 
 .primary-btn:hover {
-  background: rgba(primaryAccentColor, 0.6);
+  background: rgba($primaryAccentColor, 0.9);
 }
 </style>

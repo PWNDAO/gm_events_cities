@@ -1,26 +1,26 @@
 module.exports = {
   base: "/",
-  title: "Istanbul GM Events",
-  heading: "GM Istanbul 2023",
-  dateSubheading: "13. - 19. November 2023",
+  title: "Zürich GM Events",
+  heading: "GM Zürich 2025",
+  dateSubheading: "20 January - 7 February",
   subHeading:
-    "We're bringing the Ethereum community to Istanbul! This website allows anyone to add and update their side event happening around Devconnect Istanbul.",
-  calendarHeading: "November 2023",
-  submitEventLink: "https://gmevents.typeform.com/devconnect",
+    "We're bringing the Ethereum community to the most crypto friendly country and the cradle of blockchain research! This website allows anyone to add and update their side event.",
+  calendarHeading: "January/February 2025",
+  submitEventLink: "https://pwn.typeform.com/to/zETbkckp",
   startDate: {
-    day: 13,
-    month: 11,
-    year: 2023,
+    day: 1,
+    month: 4,
+    year: 2024,
   },
   endDate: {
-    day: 19,
-    month: 11,
-    year: 2023,
+    day: 14,
+    month: 4,
+    year: 2024,
   },
   daysInFirstMonth: 30,
   startHour: 8,
   endHour: 24,
-  duarationInDays: 7,
+  duarationInDays: 14,
   dayNames: [
     "Monday",
     "Tuesday",
@@ -31,10 +31,10 @@ module.exports = {
     "Sunday",
   ],
   layout: 0, // 0 - banner layout, 1 - venue layout
-  bannerPath: "devconnect.jpg", // only if banner layout
+  bannerPath: "ez-header-4500x1500.png", // only if banner layout
   venues: [
     {
-      name: "Paralelni Polis",
+      name: "Duct Tape",
       desc: "yay",
       path: "logo_gm_events.svg",
     },
@@ -65,8 +65,8 @@ module.exports = {
         link: "/calendar/",
       },
       {
-        text: "Devconnect Istanbul",
-        link: "https://devconnect.org/",
+        text: "EthereumZuri.ch",
+        link: "https://ethereumzuri.ch/",
       },
     ],
     logo: "logo_gm_events.svg",

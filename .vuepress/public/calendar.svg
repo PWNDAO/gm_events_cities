@@ -1,3 +1,43 @@
-<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M15 1V2H18V18H2V2H5V1H6V2H14V1H15ZM5 3.03226V4H6V3.03226H14V4H15V3.03226H17V5.6129H3V3.03226H5ZM17 6.64516H3V16.9677H17V6.64516Z" fill="#00FFE0"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   fill="none"
+   version="1.1"
+   id="svg2060"
+   sodipodi:docname="calendar.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2064" />
+  <sodipodi:namedview
+     id="namedview2062"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="42.05"
+     inkscape:cx="9.7859691"
+     inkscape:cy="10"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2060" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M15 1V2H18V18H2V2H5V1H6V2H14V1H15ZM5 3.03226V4H6V3.03226H14V4H15V3.03226H17V5.6129H3V3.03226H5ZM17 6.64516H3V16.9677H17V6.64516Z"
+     fill="#00FFE0"
+     id="path2058"
+     style="fill:#ffffff;fill-opacity:1" />
 </svg>
