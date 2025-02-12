@@ -28,19 +28,19 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Alternative Prague Tours
+title: ETHPragueConf Afterparty
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Alternative Prague Tours
+description: Let's wrap up the conference with great vibes, music, and drinks!
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Alternative Prague Tours
+name: ETHPragueConf Afterparty
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -48,38 +48,35 @@ name: Alternative Prague Tours
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis: 
-  - Discover the best parts of Prague with locals who grew up in the city and know where the fun places are! We'll take you to unique neighborhoods filled with cool street art and local culture. It's a side of Prague that most visitors don't get to see. 
-  - We'll show you the best spots for having a good time, eating delicious food, and shopping for cool stuff. Additionally, we will discuss recent events influencing Czech culture and society. 
-  - We can't wait to meet you and show you around! ;)
-  - We will let you know the evening if you can attend.
-    
+  - Let's wrap up the conference with great vibes, music, and drinks!
+
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2024-06-01
+date: 2024-05-29
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate: 2024-06-01
+endDate: 2024-05-29
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '09:00'
-time: '13:30'
+time: '19:00'
 # Time when the event ends. Can be left empty.
-endTime: '16:30'
+endTime:
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets: https://pwn.typeform.com/to/TofQDqvZ
+tickets: 
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: free
+price: 
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: in front of Hall 13 
+venue: 
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address:  Prague, 17000 Czech Republic 
+address: Prague, 17000 Czech Republic
 
 # The category of the event. Valid options:
 # - conference
@@ -89,7 +86,7 @@ address:  Prague, 17000 Czech Republic
 # - workshop
 # - party
 # Use _only_ one, and don't capitalize.
-category: event
+category: party
 
 
 #################
