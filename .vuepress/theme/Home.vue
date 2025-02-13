@@ -4,7 +4,6 @@
     <Hero />
     <Venues />
     <Events />
-    <Cta />
   </div>
 </template>
 
