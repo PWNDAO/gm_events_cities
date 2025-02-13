@@ -1,12 +1,12 @@
 module.exports = {
   base: "/",
   title: "Prague GM Events",
-  heading: "GM Prague 2024",
-  dateSubheading: "May 27 - June 9 2024",
+  heading: "GM Prague 2025",
+  dateSubheading: "May 19 - June 8 2025",
   subHeading:
-    "We're bringing the Ethereum community to Prague! This website allows anyone to add and update their side event happening around ETHPrague conference & hackathon.",
-  calendarHeading: "June 2024",
-  submitEventLink: "https://pwn.typeform.com/to/eLWbM6eS",
+    "We're bringing the Ethereum community to Prague! This website allows anyone to add and update their side event happening around ETHPragueConf conference and ETHGlobal Hackathon",
+  calendarHeading: "June 2025",
+  submitEventLink: "https://pwn.typeform.com/to/PsGNO07f",
   cta: {
     title: "Organizing an event?",
     description: "Show Up is an onchain RSVP and Event management protocol designed to reshape event participation. Increase event participation. Reward attendees.",
@@ -40,7 +40,7 @@ module.exports = {
     "Sunday",
   ],
   layout: 0, // 0 - banner layout, 1 - venue layout
-  bannerPath: "ETH_Prg3_TwitHeader2.png", // only if banner layout
+  bannerPath: "eth25-twprofile-1500x500.png", // only if banner layout
   venues: [
     {
       name: "Duct Tape",
