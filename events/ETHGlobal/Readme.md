@@ -47,6 +47,7 @@ name: ETHGlobal Prague
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis: 
+  - ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. 
   - This is your opportunity to learn about crypto, expand your network, meet industry professionals, and find like-minded people who are collectively creating a new kind of web.
     
 # The date should be in the format year-month-day (ISO 8601).
