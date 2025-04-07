@@ -2,14 +2,11 @@
   <div class="footer">
     <div class="footer_left">
       <div class="footer_left_socials">
-<!--        <a href="#" class="footer_left_socials_link">-->
-<!--          <img src='./../public/fb.svg' alt="facebook" />-->
-<!--        </a>-->
-<!--        <a href="#" class="footer_left_socials_link">-->
-<!--          <img src='./../public/instagram.svg' alt="instagram" />-->
-<!--        </a>-->
-        <a href="https://twitter.com/pwndao" target="_blank" class="footer_left_socials_link">
+        <a href="https://x.com/ducttape_events" target="_blank" class="footer_left_socials_link">
           <img src='./../public/twitter.svg' alt="twitter" />
+        </a>
+        <a href="https://www.youtube.com/@ducttapeevents" target="_blank" class="footer_left_socials_link">
+          <img src='./../public/youtube-logo.svg' alt="youtube" />
         </a>
       </div>
       <div>
@@ -20,7 +17,7 @@
         </span>
       </div>
       <div>
-        {{ year }} PWN FOUNDATION
+        {{ year }} DUCT TAPE
       </div>
     </div>
 
@@ -28,12 +25,9 @@
       <div class="footer_right_hash">
         #GMevents
       </div>
-      <div class="footer_right_powered-by">
-        Powered by
-      </div>
-      <a href="https://pwn.xyz/" target="_blank">
-        <img src='./../public/pwn_logo.svg' alt="pwn logo" height="35" width="110" />
-      </a>
+      <!--      <div class="footer_right_powered-by">-->
+      <!--        Powered by-->
+      <!--      </div>-->
 
     </div>
   </div>
@@ -102,7 +96,7 @@ export default {
     margin-bottom 25px
 
   &_right_powered-by
-    font-family: 'Oxygen Mono', monospace;
+    font-family: 'Helvetica', sans-serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 20px;

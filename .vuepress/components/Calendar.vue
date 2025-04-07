@@ -334,7 +334,7 @@ table
           color #fff
           font-size 16px
           font-weight 400
-          font-family Montserrat
+          font-family $primaryFontFamily
           transition .3s ease-in-out
           &.featured
             color: $accentColor

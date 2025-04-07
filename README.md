@@ -33,5 +33,5 @@ GM Week initiatives are happening all over the world whenever
 there is a large gathering of blockchain and cryptocurrencies enthusiasts.
 This is a voluntary initiative which was formed around the ETHPrague 2022.
 
-Feel free to reach out contact@pwn.xyz if you have any questions.
+Feel free to reach out get@ducttape.events if you have any questions.
 <br />
