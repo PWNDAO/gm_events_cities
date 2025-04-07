@@ -33,7 +33,7 @@ title: ETHGlobal Prague Happy Hour
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: ETHGlobal Prague Happy Hour
+description: Get ready to party with the ETHGlobal community in the heart of Prague!
 
 #####################
 ### EVENT DETAILS ###
