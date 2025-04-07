@@ -48,7 +48,7 @@ name: Web3Privacy Now Meetup
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis: 
-  -A half day dedicated to foster solidarity and understanding among Open Source and human rights advocates.
+  - A half day dedicated to foster solidarity and understanding among Open Source and human rights advocates.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
