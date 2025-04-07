@@ -62,7 +62,7 @@ endDate: 2025-05-29
 # Example: '09:00'
 time: '16:00'
 # Time when the event ends. Can be left empty.
-endTime: 23:00
+endTime: '23:00'
 
 # The URL where to acquire the tickets. Can be left empty.
 tickets: https://lu.ma/jhp1iapn
